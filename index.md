@@ -4,5 +4,11 @@
 
 layout: home
 title: ponyoponyo
-permalink: /index.markdown
+permalink: /index.html
+
+article_header:
+  actions:
+    - text: About
+      type: outline-theme-dark
+      url: /about.html
 ---
