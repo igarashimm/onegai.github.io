@@ -3,12 +3,12 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: ponyoponyo
-permalink: /index.html
+title: My Page
+permalink: /index.md
 
 article_header:
   actions:
     - text: About
       type: outline-theme-dark
-      url: /about.html
+      url: /about.md
 ---
